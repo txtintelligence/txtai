@@ -1,30 +1,9 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/neuml/txtai/master/logo.png"/>
+    <img src="https://i.imgur.com/KHdAVCC.jpeg"/>
 </p>
 
 <p align="center">
     <b>All-in-one embeddings database</b>
-</p>
-
-<p align="center">
-    <a href="https://github.com/neuml/txtai/releases">
-        <img src="https://img.shields.io/github/release/neuml/txtai.svg?style=flat&color=success" alt="Version"/>
-    </a>
-    <a href="https://github.com/neuml/txtai">
-        <img src="https://img.shields.io/github/last-commit/neuml/txtai.svg?style=flat&color=blue" alt="GitHub last commit"/>
-    </a>
-    <a href="https://github.com/neuml/txtai/issues">
-        <img src="https://img.shields.io/github/issues/neuml/txtai.svg?style=flat&color=success" alt="GitHub issues"/>
-    </a>
-    <a href="https://join.slack.com/t/txtai/shared_invite/zt-1cagya4yf-DQeuZbd~aMwH5pckBU4vPg">
-        <img src="https://img.shields.io/badge/slack-join-blue?style=flat&logo=slack&logocolor=white" alt="Join Slack"/>
-    </a>
-    <a href="https://github.com/neuml/txtai/actions?query=workflow%3Abuild">
-        <img src="https://github.com/neuml/txtai/workflows/build/badge.svg" alt="Build Status"/>
-    </a>
-    <a href="https://coveralls.io/github/neuml/txtai?branch=master">
-        <img src="https://img.shields.io/coverallsCoverage/github/neuml/txtai" alt="Coverage Status">
-    </a>
 </p>
 
 txtai is an all-in-one embeddings database for semantic search, LLM orchestration and language model workflows.
